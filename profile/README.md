@@ -2,5 +2,5 @@
 Welcome to my GitHub Profile!  
 
 > [!NOTE]  
-> This is public view of my personal [TLÜ HK](https://github.com/TLUHK) GitHub organization for school works  
+> This is the public view of my personal [TLÜ HK](https://github.com/TLUHK) GitHub organization for school works  
 ---
