@@ -1,4 +1,7 @@
-# Welcome to my GitHub Profile!  
+# Tere tulemast minu avalikule GitHub profiililehele!  
 
-> [!NOTE]  
-> This is the public view of my personal [TLÜ HK](https://github.com/TLUHK) GitHub organization for school works  
+Olen ametilt haridustehnoloog ja olen rakendusinformaatika tudeng Tallinna ülikooli Haapsalu kolledžis.  
+Kasutan GitHubi seoses ülikooli loengute ja praktikumidega.  
+
+## Kontakt  
+**Email:** srenek [at] tlu.ee
