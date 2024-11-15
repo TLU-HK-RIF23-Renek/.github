@@ -17,4 +17,6 @@ Kasutan GitHubi ülikooli loengute ja praktikumide tarbeks.
 ![Email](https://img.shields.io/badge/Email-srenek_[at]_tlu.ee-0078D4?style=flat&logo=gmail&logoColor=white)
 
 ## GitHub Stats
-![SRENEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=TLU-HK-RIF23-RENEK&show_icons=true&theme=radical)
+![SRENEK's GitHub stats](https://github-readme-stats.vercel.app/api?username=TLU-HK-RIF23-Renek&show_icons=true&theme=radical)
+
+<!-- [!IMPORTANT], [!TIP], [!CAUTION], [!WARNING], [!NOTE] -->
